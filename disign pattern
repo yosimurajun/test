@@ -1,0 +1,22 @@
+# Strategy Pattern 
+#  1. interface 
+#    - funtion Declaration, implementation Separation
+#    - funtion Passage
+#
+#  2. Delegate
+#    - call function of another object to use the function of a speciifc object
+#    - mandate
+#  3. straegy pattern 
+#    - exchange through one abstract access point
+#    - similar interface 
+#   
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
+#  
