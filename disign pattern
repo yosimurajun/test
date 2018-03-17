@@ -23,7 +23,7 @@
 ###################################################################################################
 # Template pattern 
 #  1. template method pattern to use similar process
-#  
+#  2. not modify algorism in core but override algorism in sub class 
 #  
 #  
 ###################################################################################################
