@@ -1,6 +1,6 @@
 # Strategy Pattern 
 #  1. interface 
-#    - funtion Declaration, implementation Separation
+#    - funtion Declaration and implementation Separation
 #    - funtion Passage
 #
 #  2. Delegate
@@ -9,13 +9,42 @@
 #  3. straegy pattern 
 #    - exchange through one abstract access point
 #    - similar interface 
-#   
+###################################################################################################
+# Adapter pattern 
+#  1.  
+#    - Apparatus for multipurpose use of machine tools, etc.
+#    - Invoke the given algorithm to meet your requirements
+#    - not modify algorithm but use adapter(interface, class)
 #  
 #  
 #  
 #  
 #  
+###################################################################################################
+# Template pattern 
+#  1. template method pattern to use similar process
 #  
+#  
+#  
+###################################################################################################
+#  Factory Method Pattern
+#   1. using template pattern 
+#   2. declaration / implementation separated
+#    
+###################################################################################################
+# Template Method Pattern
+#  
+#  
+#  
+#  
+###################################################################################################
+# Template Method Pattern
+#  
+#  
+#  
+#  
+###################################################################################################
+# Template Method Pattern
 #  
 #  
 #  
